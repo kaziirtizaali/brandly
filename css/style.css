@@ -1,0 +1,208 @@
+.banner-body {
+    background: #4D4E53 url('../images/banner.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-head {
+    text-align: center;
+}
+
+.banner-head > p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.banner-head h1 {
+    font-size: 57px;
+}
+
+.banner-head > p > p {}
+
+.vh-100 {
+    height: 100vh
+}
+
+.custom-btn {
+    color: white;
+    font-size: 18px;
+    border-color: white;
+    padding: 8px 30px;
+}
+
+.custom-btn:hover {
+    color: #e23232;
+}
+
+.portfolio-banner {
+    background: #F1F1F1 url('../images/banner-2.jpg');
+    background-size: cover;
+}
+
+.port-head p {
+    \: 11px;
+    font-size: 40px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.right-edit h6 {
+    font-size: 30px;
+    color: #DC0000;
+}
+
+.right-edit p {
+    padding-top: 10px;
+}
+
+.pro-but a {}
+
+.cs-btn {
+    color: #3a3030;
+    border-color: #333333;
+    padding: 4px 20px;
+    margin-top: 20px;
+}
+
+.bot-btn {
+    color: #3a3030;
+    border-color: #333333;
+    margin-top: 20px;
+    padding: 4px 42px;
+}
+
+.cs-btn:hover {
+    color: white;
+    background-color: #333333;
+}
+
+.bot-btn:hover {
+    color: white;
+    background-color: #333333;
+}
+
+.gallery {}
+
+.gallery-head p {
+    margin: 0 auto;
+    font-size: 40px;
+    padding: 30px 0;
+}
+
+.gallery-head {}
+
+.overlay {
+    height: 100%;
+    width: 0%;
+    display: block;
+    background-color: #646670;
+    position: absolute;
+    opacity: 0.8;
+    transition-duration: 1s;
+}
+
+.img-hov {
+    position: relative;
+}
+
+.img-hov:hover .overlay {
+    width: 100%;
+}
+}
+
+.overlay p {
+    width: 0;
+
+}
+
+.img-hov:hover .overlay p {}
+
+.footer-gallery {}
+
+.fot-head {}
+
+.fot-head p {
+    margin: 0 auto;
+    font-size: 40px;
+    padding: 30px 0;
+}
+
+.footer-btn {
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border-radius: 0;
+    padding: 6px 100px;
+    margin-top: 85px;
+    float: right;
+}
+
+.contents {}
+
+.contents h3 {}
+
+.contents h6 {
+    margin-top: 20px;
+}
+
+.contents p {
+    margin-top: 40px;
+}
+
+.my-btn {
+    color: #333333;
+    border-color: #333333;
+    margin-left: 15px;
+    padding: 4px 15px;
+}
+
+.my-btn:hover {
+    color: white;
+    background-color: #333333;
+}
+
+.footer {}
+
+.footer-banner {
+    background: #646670 url('../images/footer-banner.jpg');
+    background-size: cover;
+    height: 25vh;
+}
+
+.fot-p p {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.my-form {
+    background-color: transparent;
+    border-radius: 0px;
+}
+
+.fot-button {}
+
+.fot-button input {
+    padding: 5px 14em;
+    background: none;
+}
+
+.fot-button button {}
+
+.fot-p {
+    padding-left: 0;
+    padding-top: 50px;
+}
+
+.mainfooter {
+    padding: 20px;
+}
+
+.l p {
+    margin: 0 auto;
+}
+
+.navbar-shrink {
+    background-color: #333333;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
